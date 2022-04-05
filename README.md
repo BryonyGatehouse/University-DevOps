@@ -12,3 +12,14 @@ Students who pass this course should be able to:
 2. Describe alternative approaches to immutable infrastructure and critique their relative strengths and weaknesses in a practical system.
 3. Make evidence- and theory-informed recommendations regarding the observability, scalability and reliability of practical systems.
 4. Use modern DevOps tools within contemporary software engineering environments.
+
+### Assessment 
+
+- [Assignment 1 : Introduction](Assignment%201)
+    - [The DevOps Handbook](https://learning.oreilly.com/library/view/the-devops-handbook/9781457191381/)
+- [Assignment 2 : Automation](Assignment%202)
+    - Chapters 2-4 from [Ansible: From Beginner to Pro](https://learning.oreilly.com/library/view/ansible-from-beginner/9781484216590/)
+- [Assignment 3 : Pacman](Assignment%203)
+- [Assignment 4 : Logging](Assignment%204)
+- [Assignment 5 : Continuous Delivery](Assignment%205)
+    - [Continuous Delivery: Reliabile Software Releases through Build, Test, and Deployment Automation](https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
